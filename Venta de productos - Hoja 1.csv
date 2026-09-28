@@ -1,0 +1,11 @@
+Nombre del Cliente,Fecha,Email,Producto,Categoría,Cantidad,Precio Unitario (USD),Total (USD),Método de Pago,Estado de Pago,Observaciones
+Juan Perez,2026-08-15,juan.p@email.com,Laptop Dell XPS 15,Computación,1,1500,1500,Tarjeta de Crédito,Pagado,Envío a domicilio
+Maria Gomez,2026-08-16,maria.g@email.com,iPhone 15 Pro,Telefonía,2,1000,2000,Transferencia,Pendiente,Comunicarse antes de enviar
+Carlos Ruiz,2026-08-16,cruiz88@email.com,"Monitor LG 27""",Periféricos,1,300,300,PayPal,Pagado,
+Ana Lopez,2026-08-17,ana.l@email.com,Auriculares Sony WH-1000XM5,Audio,1,350,350,Tarjeta de Crédito,Pagado,Regalo
+Pedro Sanchez,2026-08-18,psanchez@email.com,Mouse Logitech MX Master 3,Periféricos,2,100,200,Efectivo,Pendiente,Retira por sucursal
+Laura Torres,2026-08-18,laura.t@email.com,MacBook Air M2,Computación,1,1200,1200,Transferencia,Pagado,Factura A solicitada
+Diego Martin,2026-08-18,dmartin@email.com,Teclado Mecánico Keychron,Periféricos,1,150,150,PayPal,Reembolsado,Cliente recurrente
+Sofia Castro,2026-08-19,scastro@email.com,iPad Air,Tablets,1,600,600,Tarjeta de Crédito,Pagado,
+Miguel Silva,2026-08-19,msilva@email.com,Samsung Galaxy S24,Telefonía,1,900,900,Transferencia,Pendiente,Urgente
+Lucia Diaz,2026-08-20,ldiaz@email.com,Cámara Web Logitech Brio,Periféricos,3,130,390,Tarjeta de Crédito,Pagado,Empaque de seguridad
